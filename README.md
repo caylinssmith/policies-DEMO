@@ -68,7 +68,7 @@
 - [Pakistan](#pakistan)
   * [International Journal Of Scientific Knowledge](#international-journal-of-scientific-knowledge)
 - [Republic of ireland](#republic-of-ireland)
-  * [Ifi Irish Film Archive](#ifi-irish-film-archive)
+  * [IFI Irish Film Archive](#ifi-irish-film-archive)
   * [James Hardiman Library, Nui Galway](#james-hardiman-library,-nui-galway)
   * [National Library Of Ireland](#national-library-of-ireland)
 - [Scotland](#scotland)
