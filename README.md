@@ -246,7 +246,7 @@
 * **Strategy**: Not available
 
 ### University Of Sheffield
-* **Policy**: [http://librarysupport.shef.ac.uk/DigitalPreservationPolicy.pdf](http://librarysupport.shef.ac.uk/DigitalPreservationPolicy.pdf)
+* **Policy**: [http://librarysupport.shef.ac.uk/DigitalPreservationPolicy.pdf]([https://www.sheffield.ac.uk/sites/default/files/2023-10/Digital%20Preservation%20Policy%202.0%2020230502.pdf)
 * **Strategy**: Not available
 
 ### University Of Warwick
